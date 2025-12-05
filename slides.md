@@ -24,6 +24,10 @@ drawings:
   Натисніть Space, щоб перейти далі <carbon:arrow-right />
 </div>
 
+<div class="absolute left-4 top-4 z-20 opacity-80">
+  <img src="/images/logo.png" class="h-10 object-contain" />
+</div>
+
 ---
 src: ./pages/01.md
 ---
