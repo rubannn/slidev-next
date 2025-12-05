@@ -42,7 +42,7 @@ src: ./pages/05.md
 ---
 
 ---
-src: ./pages/06.md
+src: ./pages/06-2.md
 ---
 
 ---
